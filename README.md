@@ -21,13 +21,13 @@ ___
 
 ### 🤖 Tecnologias
 
-<img align="left" alt="SQL" title="SQL" width="50px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/512/196/196850.png" />
+<img align="left" alt="SQL" title="SQL" width="50px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/128/5815/5815809.png" />
 
-<img align="left" alt="Excel" title="Excel" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+<img align="left" alt="Excel" title="Excel" width="50px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/128/732/732220.png" />
 
 <img align="left" alt="Power BI" title="Power BI" width="50px" style="padding-right: 10px;" src="https://img.icons8.com/?size=48&id=qYfwpsRXEcpc&format=png" />
 
-<img align="left" alt="Security" title="Cybersecurity" width="50px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" />
+<img align="left" alt="Python" title="Python" width="50px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" />
 
 <img align="left" alt="Shield" title="LGPD" width="50px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/512/942/942751.png" />
 
