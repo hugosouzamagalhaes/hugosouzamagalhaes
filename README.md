@@ -25,7 +25,7 @@ ___
 
 <img align="left" alt="Excel" title="Excel" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 
-<img align="left" alt="Power BI" title="Power BI" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" />
+<img align="left" alt="Power BI" title="Power BI" width="50px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" />
 
 <img align="left" alt="Security" title="Cybersecurity" width="50px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" />
 
