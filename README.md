@@ -21,7 +21,7 @@ ___
 
 ### 🤖 Tecnologias
 
-<img align="left" alt="SQL" title="SQL" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="SQL" title="SQL" width="50px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/512/196/196850.png" />
 
 <img align="left" alt="Excel" title="Excel" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 
