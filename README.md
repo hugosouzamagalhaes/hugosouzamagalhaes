@@ -2,13 +2,13 @@
 
 **`Analista de dados e Segurança da Informação`**
 
-🙋‍♂️Me chamo Hugo Magalhães, sou analista de dados e atualmente curso graduação em Sistemas de Informação pela UNEB. Meu objetivo é unir o poder dos dados com a proteção da informação, construindo soluções que sejam ao mesmo tempo estratégicas e seguras.
+🙋‍♂️Me chamo Hugo Magalhães, sou desenvolvedor de software e analista de dados. Atualmente curso graduação em Sistemas de Informação pela UNEB. Meu objetivo é unir o poder dos dados com o desenvolvimento, construindo soluções que sejam ao mesmo tempo estratégicas, criativas e seguras.
 
-📊Tenho conhecimentos iniciais em **SQL**, **Power BI**, e **Excel**. Explorando a criação de dashboards e relatórios interativos.
+📊Tenho conhecimentos em **SQL**, **Power BI**, e **Excel**. Explorando a criação de dashboards e relatórios interativos, além de experiência na programação com **Python**, **C**, **JavaScript**, **HTML** e **CSS**.
 
-🔎No momento, estou explorando a área de **Segurança da Informação**, estudando conceitos de  **LGPD** e **Cybersegurança**, tentando uní-los com a área de dados, para mesclar os conhecimentos e me tornar um profissional qualificado. Estou sempre aberto à aprender novas tecnologias e expandir meu conhecimento.
+🔎No momento, estou explorando a área de **Segurança da Informação**, estudando conceitos de  **LGPD** e **Cybersegurança**, tentando uní-los com a dados através do desenvolvimento, para mesclar os conhecimentos e me tornar um profissional qualificado. Estou sempre aberto à aprender novas tecnologias e expandir meu conhecimento.
 
-💻Também possuo base em **programação**: Iniciei com o básico em **C**, e estou na jornada de aprendizado de **Python**. Acredito que irão me ajudar a entender fundamentos lógicos, de foma que eu possa aplicar em projetos.
+💻Estou na jornada de aprendizado em **frameworks** como **React** para possibilitar maior eficiência nos meus projetos.
 
 🚀 Buscando **oportunidades de estágio** para adquirir experiência, enquanto continuo expandindo meu portfólio. 
 
@@ -19,27 +19,14 @@
 
 ___
 
-### 🤖 Tecnologias
 
-<img align="left" alt="SQL" title="SQL" width="50px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/128/5815/5815809.png" />
-
-<img align="left" alt="Excel" title="Excel" width="50px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/128/732/732220.png" />
-
-<img align="left" alt="Power BI" title="Power BI" width="50px" style="padding-right: 10px;" src="https://img.icons8.com/?size=48&id=qYfwpsRXEcpc&format=png" />
-
-<img align="left" alt="Python" title="Python" width="50px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" />
-
-<img align="left" alt="Shield" title="LGPD" width="50px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/512/942/942751.png" />
-
-<img align="left" alt="Splunk" title="Splunk" width="50px" style="padding-right: 10px;" src="https://cdn.worldvectorlogo.com/logos/splunk-1.svg" />
-
-<br/><br/><br/>
-
-### 📂 Projetos em Andamento
+### 📂 Projetos Concluídos/Em andamento
 
 * Dashboard de Incidentes de Segurança (Power BI) → análise de tipos de ataques e setores mais afetados.
 
-* Estudo sobre LGPD aplicada a dados empresariais → resumo prático sobre conformidade.
+* Portfólio Pessoal → Projeto de portfólio utilizando HTML, CSS e JavaScript.
+
+* Diversos projetos de lógica em C → úteis tanto para aprimorar lógica de programação, como para resolver problemas reais.
 
 * Exploração SQL → consultas em banco de dados simulando cenários de análise.
 
