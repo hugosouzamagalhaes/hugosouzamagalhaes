@@ -1,6 +1,6 @@
 # 👨‍💻 Hugo Magalhães
 
-**`Analista de dados e Segurança da Informação`**
+**`Desenvolvedor de Software e Analista de dados`**
 
 🙋‍♂️Me chamo Hugo Magalhães, sou desenvolvedor de software e analista de dados. Atualmente curso graduação em Sistemas de Informação pela UNEB. Meu objetivo é unir o poder dos dados com o desenvolvimento, construindo soluções que sejam ao mesmo tempo estratégicas, criativas e seguras.
 
