@@ -1,34 +1,29 @@
 # 👨‍💻 Hugo Magalhães
 
-**`Desenvolvedor de Software e Analista de dados`**
+**`Desenvolvedor de Software`**
 
-🙋‍♂️Me chamo Hugo Magalhães, sou desenvolvedor de software e analista de dados. Atualmente curso graduação em Sistemas de Informação pela UNEB. Meu objetivo é unir o poder dos dados com o desenvolvimento, construindo soluções que sejam ao mesmo tempo estratégicas, criativas e seguras.
+🙋‍♂️Sou apaixonado por resolver problemas com código. Tenho experiência em **C** e **HTML/CSS**, e estou evoluindo meus estudos em **Python** e **C#**, com foco em desenvolvimento de software.  
+Gosto de transformar ideias em projetos funcionais e aprender novas tecnologias através da prática.
 
-📊Tenho conhecimentos em **SQL**, **Power BI**, e **Excel**. Explorando a criação de dashboards e relatórios interativos, além de experiência na programação com **Python**, **C**, **JavaScript**, **HTML** e **CSS**.
+📊Tenho conhecimentos em **C**, **C#**, **HTML**, **Git**, **GitHub** e **Lógica de Programação**.
 
 🔎No momento, estou explorando a área de **Segurança da Informação**, estudando conceitos de  **LGPD** e **Cybersegurança**, tentando uní-los com a dados através do desenvolvimento, para mesclar os conhecimentos e me tornar um profissional qualificado. Estou sempre aberto à aprender novas tecnologias e expandir meu conhecimento.
 
-💻Estou na jornada de aprendizado em **frameworks** como **React** para possibilitar maior eficiência nos meus projetos.
-
-🚀 Buscando **oportunidades de estágio** para adquirir experiência, enquanto continuo expandindo meu portfólio. 
+💻Estou na jornada de aprendizado em **C#** mais especificamente em programação orientada à objetos e estrutura de dados.
+📫 Entre em contato comigo no [LinkedIn](https://www.linkedin.com/in/hugosmagalhaes)
 
   <div align="center"> 
-  <a href="https://www.linkedin.com/in/hugosmagalhaes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:hugomagalhaesbds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 
 ___
 
 
-### 📂 Projetos Concluídos/Em andamento
+## 💻 Projetos em destaque
+- ⚽ [Simulador de Pênaltis (C)](https://github.com/hugosouzamagalhaes/simulador-penaltis-c): jogo no terminal, desenvolvido para praticar lógica e estruturas condicionais.  
+- 💰 [Calculadora de Imposto de Renda](https://github.com/hugosouzamagalhaes/IR-calc): aplicação que calcula o Imposto de renda mensal, desenvolvida em C.  
+- 🌐 [Portfólio Pessoal](https://github.com/hugosouzamagalhaes/Portfolio): site com meus projetos e informações, feito com HTML e CSS e deploy no Vercel.  
 
-* Dashboard de Incidentes de Segurança (Power BI) → análise de tipos de ataques e setores mais afetados.
-
-* Portfólio Pessoal → Projeto de portfólio utilizando HTML, CSS e JavaScript.
-
-* Diversos projetos de lógica em C → úteis tanto para aprimorar lógica de programação, como para resolver problemas reais.
-
-* Exploração SQL → consultas em banco de dados simulando cenários de análise.
 
 
 
