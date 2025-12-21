@@ -2,11 +2,11 @@
 
 **`Desenvolvedor de Software`**
 
-🙋‍♂️Sou apaixonado por resolver problemas com código. Tenho experiência em **C** e **HTML/CSS**, e estou evoluindo meus estudos em **Python** e **C#**, com foco em desenvolvimento de software. Gosto de transformar ideias em projetos funcionais e aprender novas tecnologias através da prática.
+🙋‍♂️Sou estudante de Sistemas de Informação, interessado pelo desenvolvimento de software, principalmente backend. No momento estou empenhado em ampliar meus conhecimentos em **Java** e **Python**, e exibí-los em forma de projetos!
 
-📊Tenho conhecimentos em **C**, **C#**, **Python**, **HTML**, **CSS**, **Git**, **GitHub** e **Lógica de Programação**.
+📊Tenho base sólida de programação em **C**, e conhecimentos em **Python**, **Java** e **JavaScript**, além de já ter feito projetos utilizando **HTML** e **CSS**
 
-💻Estou na jornada de aprendizado em **C#** mais especificamente em programação orientada à objetos e estrutura de dados.
+💻Estou na jornada de aprendizado em **Java** mais especificamente em programação orientada à objetos e estrutura de dados.
 
 📫 Entre em contato comigo no [LinkedIn](https://www.linkedin.com/in/hugosmagalhaes)
 
