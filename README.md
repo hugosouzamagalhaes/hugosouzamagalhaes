@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-🙋‍♂️Sou estudante de Sistemas de Informação, interessado pelo desenvolvimento de software, principalmente backend. No momento estou empenhado em ampliar meus conhecimentos em **Java** e **Python**, e exibí-los em forma de projetos!
+🙋‍♂️Sou estudante de Sistemas de Informação, interessado pelo desenvolvimento de software, principalmente backend. No momento estou empenhado em ampliar meus conhecimentos em **Python** e **Java**, e exibí-los em forma de projetos!
 
 📊Tenho base sólida de programação em **C**, e conhecimentos em **Python**, **Java** e **JavaScript**, além de já ter feito projetos utilizando **HTML** e **CSS**
 
