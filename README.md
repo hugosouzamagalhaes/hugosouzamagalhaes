@@ -2,9 +2,9 @@
 
 **`Desenvolvedor de Software`**
 
-🙋‍♂️Sou estudante de Sistemas de Informação, interessado pelo desenvolvimento de software, principalmente backend. No momento estou empenhado em ampliar meus conhecimentos em **Java**, e exibí-los em forma de projetos!
+🙋‍♂️Sou estudante de Sistemas de Informação, interessado por desenvolvimento backend. No momento estou empenhado no meu projeto MyFit, um gerenciador de treinos desenvolvido em **Java**.
 
-💻Estou na jornada de aprendizado em **Java** mais especificamente em programação orientada à objetos.
+💻Estou na jornada de aprendizado em programação orientada à objetos, mais especificamente na linguagem **Java**
 
 📫 Entre em contato comigo no [LinkedIn](https://www.linkedin.com/in/hugosmagalhaes)
 
@@ -16,7 +16,7 @@ ___
 
 
 ## 💻 Projetos em destaque
-- ⚽ [Simulador de Pênaltis (C)](https://github.com/hugosouzamagalhaes/simulador-penaltis-c): jogo no terminal, desenvolvido para praticar lógica e estruturas condicionais.  
+- ⚽ [MyFit (Java)](https://github.com/hugosouzamagalhaes/MyFit): sistema funcional de gerenciamento de treinos de academia, confira detalhes clicando no link.  
 - 💰 [Calculadora de Imposto de Renda](https://github.com/hugosouzamagalhaes/IR-calc): aplicação que calcula o Imposto de renda mensal, desenvolvida em C.  
 - 🌐 [Portfólio Pessoal](https://github.com/hugosouzamagalhaes/Portfolio): site com meus projetos e informações, feito com HTML e CSS e deploy no Vercel.  
 
