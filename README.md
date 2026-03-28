@@ -16,7 +16,7 @@ ___
 
 
 ## 💻 Projetos em destaque
-- ⚽ [MyFit (Java)](https://github.com/hugosouzamagalhaes/MyFit): sistema funcional de gerenciamento de treinos de academia, confira detalhes clicando no link.  
+- 🏋️‍♂️ [MyFit (Java)](https://github.com/hugosouzamagalhaes/MyFit): sistema funcional de gerenciamento de treinos de academia, confira detalhes clicando no link.  
 - 💰 [Calculadora de Imposto de Renda](https://github.com/hugosouzamagalhaes/IR-calc): aplicação que calcula o Imposto de renda mensal, desenvolvida em C.  
 - 🌐 [Portfólio Pessoal](https://github.com/hugosouzamagalhaes/Portfolio): site com meus projetos e informações, feito com HTML e CSS e deploy no Vercel.  
 
