@@ -8,6 +8,13 @@
 
 📫 Entre em contato comigo no [LinkedIn](https://www.linkedin.com/in/hugosmagalhaes)
 
+## 🛠️ Tecnologias e Ferramentas
+<div align="inline">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+
   <div align="center"> 
   <a href = "mailto:hugomagalhaesbds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
