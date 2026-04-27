@@ -11,9 +11,9 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 **Análise e Ciência de Dados:**
-*Excel Avançado
-*Python
-*Modelagem de Dados e SQL (MySQL)
+* Excel Avançado
+* Python
+* Modelagem de Dados e SQL (MySQL)
 
 
 ## 💻 Projetos em destaque
