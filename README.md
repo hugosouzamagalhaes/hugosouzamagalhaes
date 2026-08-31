@@ -1,19 +1,10 @@
-# 👨‍💻 Hugo Magalhães
+#  Hugo Magalhães
 
-**`Data Analysis & Backend`**
+ **`Estudante de Sistemas de Informação`**
 
-🙋‍♂️Sou estudante de Sistemas de Informação, interessado por análise e ciência de dados. No momento estou empenhado nos estudos em Python e Análise de dados, apesar de ter uma base sólida em Desenvolvimento Backend.
+Sou estudante de tecnologia interessado em **desenvolvimento, dados e matemática**. Utilizo o GitHub para registrar projetos acadêmicos, experimentos e estudos realizados ao longo da minha formação.
 
-💻Estou na jornada de aprendizado em Ciência de Dados, mais especificamente na linguagem **Python**
-
-📫 Entre em contato comigo no [LinkedIn](https://www.linkedin.com/in/hugosmagalhaes)
-
-## 🛠️ Tecnologias e Ferramentas
-
-**Análise e Ciência de Dados:**
-* Excel Avançado
-* Python
-* Modelagem de Dados e SQL (MySQL)
+Atualmente, estou construindo minha base em diferentes áreas da computação, enquanto exploro quais delas pretendo seguir profissionalmente.
 
 
 ## 💻 Projetos em destaque
@@ -22,8 +13,12 @@
 * **Foco:** Inteligência de mercado, precificação e limpeza de dados.
 
 [MyFit](https://github.com/hugosouzamagalhaes/MyFit)
-* **O que é:** Sistema de gerenciamento de treinos desenvolvido integralmente.
+* **O que é:** Sistema de gerenciamento de treinos desenvolvido integralmente em Java.
 * **Foco:** Lógica orientada a objetos e arquitetura Backend (Java).
+
+[Bot de Editais da UNEB](https://github.com/hugosouzamagalhaes/uneb-editais-bot)
+* **O que é:** Script para notificar via Telegram quando for aberto um edital novo na universidade.
+* **Foco:** Automação de tarefas
 
 
 
