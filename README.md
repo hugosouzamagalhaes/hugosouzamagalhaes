@@ -8,6 +8,11 @@ Atualmente, estou construindo minha base em diferentes áreas da computação, e
 
 
 ## 💻 Projetos em destaque
+
+[Portfólio Pessoal](https://hugosouzamagalhaes.github.io/meu-portfolio/)
+* **O que é:** Site de portfólio pessoal.
+* **Foco:** Desenvolvimento Front-end e apresentação do meu trabalho. Desenvolvido com React, Vite, JavaScript, HTML e CSS.
+
 [Airbnb Data Analysis (Dashboard Interativo)](https://hugosouzamagalhaes.github.io/airbnb-rj-analysis/) - [Repositório](https://github.com/hugosouzamagalhaes/airbnb-rj-analysis)
 * **O que é:** Análise exploratória e dashboard interativo do mercado do Airbnb no RJ (+38k imóveis).
 * **Foco:** Inteligência de mercado, precificação e limpeza de dados.
