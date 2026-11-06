@@ -52,24 +52,22 @@ Atualmente, estou ampliando meus conhecimentos em diferentes áreas da computaç
 </div>
 
 
-## Contato
+
+
+<h2 align="center">Contato</h2>
 
 <div align="center">
 
-<a href="https://hugosouzamagalhaes.github.io/meu-portfolio/">
-  <img src="https://img.shields.io/badge/Portfólio-1565C0?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<a href="https://hugosouzamagalhaes.github.io/meu-portfolio/" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-1565C0?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/hugosmagalhaes/">
+<a href="https://www.linkedin.com/in/hugosmagalhaes/" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/hugosouzamagalhaes">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="mailto:hugomagalhaesbd@gmail.com" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:1565C0&height=100&section=footer" />
-
-</div>
